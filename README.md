@@ -60,7 +60,9 @@ else:
 
 ## OUTPUT :
 ![Screenshot 2025-04-21 223036](https://github.com/user-attachments/assets/36295ba6-3b83-46f5-a455-d41f0e77653a)
+
 ![Screenshot 2025-04-21 223112](https://github.com/user-attachments/assets/efbb7c80-d63f-4ff9-a5d0-12cf961db3bd)
+
 ![Screenshot 2025-04-21 223131](https://github.com/user-attachments/assets/0b37fcd7-1b85-4d6f-9e02-8f0a93cda917)
 
 ## RESULT :
